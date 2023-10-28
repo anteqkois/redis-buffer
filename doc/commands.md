@@ -1,0 +1,1 @@
+xxd -b condition1.bin
